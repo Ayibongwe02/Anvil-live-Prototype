@@ -739,7 +739,7 @@ def main():
         return
 
     with st.sidebar:
-        st.markdown("## \            ANVIL")
+        st.markdown("##              ANVIL")
         st.markdown('<p class="forge-caption">Forge a model from raw data.</p>', unsafe_allow_html=True)
         st.markdown("### Navigate")
         page = st.radio(
